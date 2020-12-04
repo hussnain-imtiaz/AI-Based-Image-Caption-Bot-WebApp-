@@ -4,7 +4,7 @@ This repository contains the source code and documentation for AI based Image Ca
 
 ### Usage:  
 Simply install all the required packages using 'requirements.txt' file. Command is as follow:  
-*pip install -r requirements.txt
+*pip install -r requirements.txt*
 
 **It is preffered to use virtual environment.**
 
