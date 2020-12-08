@@ -7,5 +7,7 @@ Simply install all the required packages using 'requirements.txt' file. Command 
 *pip install -r requirements.txt*
 
 **It is preffered to use virtual environment.**
+  
+To run the app simply navigate to the directory on the terminal and write **"python app.py"**, open the local host and enjoy. :)  
 
 
